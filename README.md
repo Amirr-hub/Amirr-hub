@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me ...
+- 📫 How to reach me: amir.connect@outlook.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I traveled to five cities in Europe in 2 weeks last year. 
 
